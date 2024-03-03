@@ -1,0 +1,12 @@
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\proyecto_final.exe
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\proyecto_final.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\proyecto_final.deps.json
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\proyecto_final.runtimeconfig.json
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\proyecto_final.pdb
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\Google.Protobuf.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\K4os.Compression.LZ4.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\K4os.Hash.xxHash.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\MySql.Data.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\ZstdNet.dll
+C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Release\net6.0-windows\publish\BouncyCastle.Crypto.dll

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>proyecto_final</id>
+    <version>1.0.0</version>
+    <authors>proyecto_final</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="MySql.Data" version="8.0.31" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/CUDI-principal-1-copia.ico.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Debug\net6.0-windows\proyecto_final.runtimeconfig.json" target="lib\net6.0-windows7.0\proyecto_final.runtimeconfig.json" />
+    <file src="C:\Users\Leo\Desktop\proyecto_final\proyecto_final\bin\Debug\net6.0-windows\proyecto_final.dll" target="lib\net6.0-windows7.0\proyecto_final.dll" />
+    <file src="C:\Users\Leo\Desktop\proyecto_final\proyecto_final\CUDI-principal-1-copia.ico.ico" target="content\CUDI-principal-1-copia.ico.ico" />
+    <file src="C:\Users\Leo\Desktop\proyecto_final\proyecto_final\CUDI-principal-1-copia.ico.ico" target="contentFiles\any\net6.0-windows7.0\CUDI-principal-1-copia.ico.ico" />
+  </files>
+</package>

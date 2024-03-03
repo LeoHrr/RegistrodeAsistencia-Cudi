@@ -1,0 +1,13 @@
+C:\Users\Leo\Desktop\Proyecto_Registro\proyecto_final.exe
+C:\Users\Leo\Desktop\Proyecto_Registro\proyecto_final.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\proyecto_final.deps.json
+C:\Users\Leo\Desktop\Proyecto_Registro\proyecto_final.runtimeconfig.json
+C:\Users\Leo\Desktop\Proyecto_Registro\proyecto_final.dll.config
+C:\Users\Leo\Desktop\Proyecto_Registro\proyecto_final.pdb
+C:\Users\Leo\Desktop\Proyecto_Registro\Google.Protobuf.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\K4os.Compression.LZ4.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\K4os.Hash.xxHash.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\MySql.Data.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\ZstdNet.dll
+C:\Users\Leo\Desktop\Proyecto_Registro\BouncyCastle.Crypto.dll
